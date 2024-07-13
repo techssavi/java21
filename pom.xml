@@ -1,6 +1,12 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0">
+<project >
     <modelVersion>4.0.0</modelVersion>
    <artifactId>java21Example</artifactId>
     <groupId>com.ss.java21example</groupId>
     <version>1</version>
+
+
+    <properties>
+        <maven.compiler.source>22</maven.compiler.source>
+        <maven.compiler.target>22</maven.compiler.target>
+    </properties>
 </project>
