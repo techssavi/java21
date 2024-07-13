@@ -9,7 +9,7 @@ public class ScopedValueExample {
             System.out.println("User: " + SCOPED_USEROBJ.get());
             processUserData();
         });
-        ;
+
 
     }
 
